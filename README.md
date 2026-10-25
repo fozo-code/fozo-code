@@ -33,7 +33,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-5b4bd5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1220)](https://fozo.42web.io)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-5b4bd5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f1220)](https://fozo.is-a.dev)
 
 </div>
 
